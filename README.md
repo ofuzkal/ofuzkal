@@ -1,4 +1,6 @@
-![MasterHead](https://github.com/user-attachments/assets/cf41139a-5ac4-4c13-a92d-ee42db45a2e4)
+![MasterHead](https://github.com/user-attachments/assets/7f8c5ba0-c224-4fbc-8d54-c0083165397e)
+
+
 
 <h1 align="center">Selam 👋, Ben Ömer </h1>
 <h3 align="center">Siber güvenlik alanında kendini sürekli geliştirmeye çalışan biri:)</h3>
