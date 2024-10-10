@@ -1,6 +1,6 @@
 ![MasterHead](https://github.com/user-attachments/assets/cf41139a-5ac4-4c13-a92d-ee42db45a2e4)
 
-<h1 align="center">Selam 👋, Ben Ömer Faruk Uzkal</h1>
+<h1 align="center">Selam 👋, Ben Ömer </h1>
 <h3 align="center">Siber güvenlik alanında kendini sürekli geliştirmeye çalışan biri:)</h3>
 <div align="center">
  <a href="https://github.com/ofuzkal">
