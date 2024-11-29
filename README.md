@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Selam 👋, Ben Ömer </h1>
-<h3 align="center">Siber güvenlik alanında kendini sürekli geliştirmeye çalışan biriyim</h3>
+<h3 align="center">Siber güvenlik alanında kendimi  geliştirmeye çalışan biriyim</h3>
 <div align="center">
  <a href="https://github.com/ofuzkal">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=%e2%9c%a8+Ömer+Faruk+Uzkal+%e2%9c%a8;%f0%9f%93%9a+Siber+Güvenlik+%f0%9f%92%bb;Profilime+hoş+geldin+%f0%9f%91%80" alt="Typing SVG" />
