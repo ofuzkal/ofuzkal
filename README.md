@@ -1,4 +1,3 @@
-![MasterHead](https://github.com/user-attachments/assets/407b119e-83ec-4941-b4af-230802c010af)
 
 
 
