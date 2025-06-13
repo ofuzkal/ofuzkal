@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Selam 👋, Ben Ömer </h1>
-<h3 align="center">Yazılım alanında kendimi  geliştirmeye çalışan biriyim</h3>
+<h3 align="center"></h3>
 <div align="center">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
