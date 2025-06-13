@@ -1,17 +1,19 @@
-
+![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQHntLUXWb6gcQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1733774284763?e=1755129600&v=beta&t=qrhx81FMgZZLcz5Di6Za8Kk1LEYTvNzPOPaSdwK6tc8)
 
 
 
 <h1 align="center">Selam 👋, Ben Ömer </h1>
-<h3 align="center"></h3>
+<h2 align="center">Profilime hoş geldiniz</h2>
 <div align="center">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/omerfarukuzkal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omerfarukuzkal" height="30" width="40" /></a>
 <a href="https://medium.com/@omerfarukuzkal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@omerfarukuzkal" height="30" width="40" /></a>
+
+ -How to reach me:**omerfarukuzkal@gmail.com**
 </p>
 
-
+ <hr>
 
 # 💻 Languages and Tools:
  
