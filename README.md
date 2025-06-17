@@ -2,7 +2,7 @@
 
 
 
-<h1 align="center">Selam 👋, Ben Ömer </h1>
+<h1 align="center">Hi 👋, I'm Omer </h1>
 <h2 align="center">Profilime hoş geldiniz</h2>
 <div align="center">
 <h3 align="left">Connect with me:</h3>
