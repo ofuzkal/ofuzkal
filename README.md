@@ -10,9 +10,9 @@
 <a href="https://linkedin.com/in/omerfarukuzkal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omerfarukuzkal" height="30" width="40" /></a>
 <a href="https://medium.com/@omerfarukuzkal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@omerfarukuzkal" height="30" width="40" /></a>
 
- -How to reach me:**omerfarukuzkal@gmail.com**
+<p align="left">
+  -How to reach me: <strong>omerfarukuzkal@gmail.com</strong>
 </p>
-
  <hr>
 
 # 💻 Languages and Tools:
