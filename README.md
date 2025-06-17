@@ -34,10 +34,3 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omerfarukuzkal&theme=dark&hide_border=true" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=omerfarukuzkal&style=flat-square&color=blue" alt="Profile views"/>
-</p>
