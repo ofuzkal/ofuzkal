@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQHntLUXWb6gcQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1733774284763?e=1755129600&v=beta&t=qrhx81FMgZZLcz5Di6Za8Kk1LEYTvNzPOPaSdwK6tc8)
+
 
 <h1 align="center">Hi&nbsp;👋&nbsp;I'm&nbsp;Ömer</h1>
 <p align="center">Welcome to my profile</p>
