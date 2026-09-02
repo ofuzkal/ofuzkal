@@ -17,7 +17,6 @@ Kurumsal ağ yapıları, firewall operasyonları, VPN teknolojileri ve sistem al
 ## Network & Security
 
 <p>
-  <img src="https://img.shields.io/badge/Fortinet-EE3124?style=flat-square&logo=fortinet&logoColor=white" alt="Fortinet"/>
   <img src="https://img.shields.io/badge/FortiGate-EE3124?style=flat-square&logo=fortinet&logoColor=white" alt="FortiGate"/>
   <img src="https://img.shields.io/badge/IPsec%20VPN-27272A?style=flat-square" alt="IPsec VPN"/>
   <img src="https://img.shields.io/badge/SSL--VPN-27272A?style=flat-square" alt="SSL VPN"/>
@@ -47,12 +46,4 @@ Kurumsal ağ yapıları, firewall operasyonları, VPN teknolojileri ve sistem al
   <img src="https://img.shields.io/badge/EF%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="Entity Framework Core"/>
   <img src="https://img.shields.io/badge/REST%20API-27272A?style=flat-square" alt="REST API"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
 </p>
-
-## Bağlantılar
-
-[Web Sitesi](https://ofuzkal.com) ·
-[LinkedIn](https://linkedin.com/in/omerfarukuzkal) ·
-[Medium](https://medium.com/@omerfarukuzkal) ·
-[E-posta](mailto:omerfarukuzkal@gmail.com)
