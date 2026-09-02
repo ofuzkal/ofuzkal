@@ -1,33 +1,58 @@
+<div align="center">
 
+# Ömer Faruk Uzkal
 
-<h1 align="center">Hi&nbsp;👋&nbsp;I'm&nbsp;Ömer</h1>
-<p align="center">Welcome to my profile</p>
+### Network & Security · Systems & Infrastructure · Software Automation
 
----
+Güvenli ağ altyapıları, sistem operasyonları ve yazılım destekli otomasyon çözümleri.
 
-### Connect with me
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://linkedin.com/in/omerfarukuzkal" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="36" height="36" alt="LinkedIn"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://medium.com/@omerfarukuzkal" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" width="36" height="36" alt="Medium"/>
-      </a>
-    </td>
-  </tr>
-</table>
+</div>
 
-- **How to reach me:** omerfarukuzkal@gmail.com
+## Hakkımda
 
----
+Ağ, güvenlik ve sistem altyapıları alanlarında çalışan bir **IT profesyoneliyim**.
 
-### 💻 Languages & Tools
+Kurumsal ağ yapıları, firewall operasyonları, VPN teknolojileri ve sistem altyapılarının yönetimi üzerine çalışıyorum. Bunun yanında operasyonel süreçleri daha verimli hale getirmek için yazılım ve otomasyon çözümlerinden faydalanıyorum.
 
-| Front-End | Back-End / DB | Dev-Ops & Sec |
-|:--|:--|:--|
-| ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)<br>![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)<br>![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black) | ![NodeJS](https://img.shields.io/badge/-NodeJS-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)<br>![MSSQL](https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) | ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)<br>![Splunk](https://img.shields.io/badge/-Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white) |
-| ![JavaScript](https://img.shields.io/badge/-JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)<br>![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) | ![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)<br>![Python](https://img.shields.io/badge/-Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white) |
+## Network & Security
+
+<p>
+  <img src="https://img.shields.io/badge/Fortinet-EE3124?style=flat-square&logo=fortinet&logoColor=white" alt="Fortinet"/>
+  <img src="https://img.shields.io/badge/FortiGate-EE3124?style=flat-square&logo=fortinet&logoColor=white" alt="FortiGate"/>
+  <img src="https://img.shields.io/badge/IPsec%20VPN-27272A?style=flat-square" alt="IPsec VPN"/>
+  <img src="https://img.shields.io/badge/SSL--VPN-27272A?style=flat-square" alt="SSL VPN"/>
+  <img src="https://img.shields.io/badge/VLAN-27272A?style=flat-square" alt="VLAN"/>
+  <img src="https://img.shields.io/badge/TCP%2FIP-27272A?style=flat-square" alt="TCP/IP"/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark"/>
+  <img src="https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white" alt="Splunk"/>
+</p>
+
+## Systems & Infrastructure
+
+<p>
+  <img src="https://img.shields.io/badge/Windows%20Server-0078D4?style=flat-square&logo=windows11&logoColor=white" alt="Windows Server"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx"/>
+  <img src="https://img.shields.io/badge/IIS-0078D4?style=flat-square" alt="IIS"/>
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" alt="PowerShell"/>
+</p>
+
+## Automation & Development
+
+<p>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET"/>
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white" alt="C#"/>
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
+  <img src="https://img.shields.io/badge/EF%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="Entity Framework Core"/>
+  <img src="https://img.shields.io/badge/REST%20API-27272A?style=flat-square" alt="REST API"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
+</p>
+
+## Bağlantılar
+
+[Web Sitesi](https://ofuzkal.com) ·
+[LinkedIn](https://linkedin.com/in/omerfarukuzkal) ·
+[Medium](https://medium.com/@omerfarukuzkal) ·
+[E-posta](mailto:omerfarukuzkal@gmail.com)
