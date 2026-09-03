@@ -1,6 +1,6 @@
 <div align="center">
 
-# Ömer Faruk Uzkal
+# Hakkımda
 
 ### Network & Security · Systems & Infrastructure · Software Automation
 
