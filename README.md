@@ -1,49 +1,99 @@
-<div align="center">
-
-# Hakkımda
-
-### Network & Security · Systems & Infrastructure · Software Automation
-
-Güvenli ağ altyapıları, sistem operasyonları ve yazılım destekli otomasyon çözümleri.
-
-</div>
+<p align="center">
+  <img src="./profile-header.svg" width="100%" alt="Ömer Faruk Uzkal - Network Specialist" />
+</p>
 
 ## Hakkımda
 
-Ağ, güvenlik ve sistem altyapıları alanlarında çalışan bir **IT profesyoneliyim**.
+Kurumsal ağ, güvenlik duvarı ve sistem operasyonlarında görev alan bir **Network Specialist** olarak çalışıyorum.
 
-Kurumsal ağ yapıları, firewall operasyonları, VPN teknolojileri ve sistem altyapılarının yönetimi üzerine çalışıyorum. Bunun yanında operasyonel süreçleri daha verimli hale getirmek için yazılım ve otomasyon çözümlerinden faydalanıyorum.
+Marka bağımsız ağ ve güvenlik duvarı operasyonlarında; müşteri taleplerinin değerlendirilmesi, değişiklik öncesi analiz, uygulama, erişim doğrulama ve log kontrolleri üzerine çalışıyorum. FortiGate ortamlarında **policy, address/service object, NAT, VPN, routing ve VLAN** operasyonlarını ekip, onay ve değişiklik yönetimi süreçleri kapsamında yürütüyorum.
 
-## Network & Security
+Erişim problemlerini **IP adresleme, subnet, gateway, DNS, routing, hedef port, policy ve log verileri** üzerinden analiz ederek sorunun ağ, güvenlik duvarı veya hedef sistem katmanından kaynaklanıp kaynaklanmadığını ayrıştırıyorum.
+
+Operasyonel süreçlerde **PowerShell, C# ve .NET Web API** deneyimimi otomasyon, entegrasyon, loglama, audit ve teknik sorun çözme süreçlerinde kullanıyorum.
+
+---
+
+## 🛡️ Profesyonel Odak
 
 <p>
-  <img src="https://img.shields.io/badge/FortiGate-EE3124?style=flat-square&logo=fortinet&logoColor=white" alt="FortiGate"/>
-  <img src="https://img.shields.io/badge/IPsec%20VPN-27272A?style=flat-square" alt="IPsec VPN"/>
-  <img src="https://img.shields.io/badge/SSL--VPN-27272A?style=flat-square" alt="SSL VPN"/>
-  <img src="https://img.shields.io/badge/VLAN-27272A?style=flat-square" alt="VLAN"/>
-  <img src="https://img.shields.io/badge/TCP%2FIP-27272A?style=flat-square" alt="TCP/IP"/>
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark"/>
-  <img src="https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white" alt="Splunk"/>
+  <img src="https://img.shields.io/badge/Network%20%26%20Firewall%20Operations-161B22?style=flat-square" alt="Network & Firewall Operations"/>
+  <img src="https://img.shields.io/badge/Firewall%20Operations-0A66C2?style=flat-square" alt="Firewall Operations"/>
+  <img src="https://img.shields.io/badge/Routing%20%26%20Switching-161B22?style=flat-square" alt="Routing & Switching"/>
+  <img src="https://img.shields.io/badge/Network%20Troubleshooting-161B22?style=flat-square" alt="Network Troubleshooting"/>
+  <img src="https://img.shields.io/badge/Change%20%26%20Rollback-161B22?style=flat-square" alt="Change & Rollback"/>
+  <img src="https://img.shields.io/badge/Operational%20Automation-161B22?style=flat-square" alt="Operational Automation"/>
 </p>
 
-## Systems & Infrastructure
+Odağım yalnızca cihaz konfigürasyonu yapmak değil; **değişiklik öncesi analiz → uygulama → erişim doğrulama → log kontrolü → gerektiğinde rollback** zincirini uçtan uca değerlendirmektir.
+
+---
+
+## 🌐 Network & Firewall
+
+<p>
+  <img src="https://img.shields.io/badge/Firewall%20Management-0D1117?style=for-the-badge" alt="Firewall Management"/>
+  <img src="https://img.shields.io/badge/FortiGate-EE3124?style=for-the-badge&logo=fortinet&logoColor=white" alt="FortiGate"/>
+</p>
+
+Firewall operasyonlarında policy ve object yönetimi, NAT/VPN işlemleri, routing/switching kontrolleri, VLAN yapıları ve log incelemeleriyle çalışıyorum. Ağ erişim problemlerinde kaynak ve hedef IP, subnet, gateway, route, DNS, hedef port, servis durumu ve firewall akışını birlikte değerlendiriyorum.
+
+---
+
+## ⚙️ Automation & Backend
+
+<p>
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
+  <img src="https://img.shields.io/badge/REST%20API-161B22?style=for-the-badge" alt="REST API"/>
+</p>
+
+Network ve sistem operasyonlarında tekrar eden işlemlerin otomasyonu, backend servisleri, entegrasyon, yetkilendirme, loglama ve audit süreçleri üzerinde çalışıyorum.
+
+---
+
+## 🖥️ Destekleyici Sistem Deneyimi
 
 <p>
   <img src="https://img.shields.io/badge/Windows%20Server-0078D4?style=flat-square&logo=windows11&logoColor=white" alt="Windows Server"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx"/>
+  <img src="https://img.shields.io/badge/Active%20Directory-0078D4?style=flat-square" alt="Active Directory"/>
+  <img src="https://img.shields.io/badge/Microsoft%20Exchange-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white" alt="Microsoft Exchange"/>
   <img src="https://img.shields.io/badge/IIS-0078D4?style=flat-square" alt="IIS"/>
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" alt="PowerShell"/>
 </p>
 
-## Automation & Development
+Bu teknolojileri ana uzmanlık unvanım olarak değil; network operasyonlarını destekleyen **sistem, servis ve entegrasyon deneyimim** kapsamında kullanıyorum.
+
+---
+
+## 🏢 Operasyon & Datacenter
 
 <p>
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET"/>
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white" alt="C#"/>
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
-  <img src="https://img.shields.io/badge/EF%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="Entity Framework Core"/>
-  <img src="https://img.shields.io/badge/REST%20API-27272A?style=flat-square" alt="REST API"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Datacenter%20Operations-161B22?style=flat-square" alt="Datacenter Operations"/>
+  <img src="https://img.shields.io/badge/Configuration%20Backup-161B22?style=flat-square" alt="Configuration Backup"/>
+  <img src="https://img.shields.io/badge/Rollback%20Planning-161B22?style=flat-square" alt="Rollback Planning"/>
+  <img src="https://img.shields.io/badge/Technical%20Documentation-161B22?style=flat-square" alt="Technical Documentation"/>
+</p>
+
+Cihaz kurulumu ve değişimi, rack yerleşimi, kablolama, etiketleme, fiziksel bağlantı doğrulama, konfigürasyon yedeği, değişiklik kaydı ve rollback planı gibi operasyonel süreçlerde görev alıyorum.
+
+---
+
+## 🧪 Security Lab & Analysis
+
+<p>
+  <img src="https://img.shields.io/badge/T--Pot-Honeypot-161B22?style=flat-square" alt="T-Pot"/>
+  <img src="https://img.shields.io/badge/Nmap-Network%20Scanning-1679A7?style=flat-square" alt="Nmap"/>
+  <img src="https://img.shields.io/badge/SpiderFoot-OSINT-161B22?style=flat-square" alt="SpiderFoot"/>
+  <img src="https://img.shields.io/badge/Kibana-Log%20Analysis-005571?style=flat-square&logo=kibana&logoColor=white" alt="Kibana"/>
+</p>
+
+T-Pot honeypot ortamında ağ güvenliği testleri, Nmap taramaları, kontrollü saldırı senaryoları, SpiderFoot araştırmaları ve Kibana üzerinden log analizleri gerçekleştirdim.
+
+---
+
+<p align="center">
+  <b>Network Specialist</b><br>
+  Network & Firewall Operations · Troubleshooting · Systems · Automation
 </p>
