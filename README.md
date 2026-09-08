@@ -1,5 +1,12 @@
 <p align="center">
-  <img src="./profile-header.svg" width="100%" alt="Ömer Faruk Uzkal - Network Specialist" />
+  <a href="https://ofuzkal.com">
+    <img
+      src="./profile-header.svg"
+      width="100%"
+      alt="Ömer Faruk Uzkal - Network Specialist"
+      title="ofuzkal.com"
+    />
+  </a>
 </p>
 
 ## Hakkımda
